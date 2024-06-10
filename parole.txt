@@ -1,0 +1,10 @@
+primo
+second
+terza
+quarto
+quint
+altro
+parole
+cinque
+letter
+gioco
